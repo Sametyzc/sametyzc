@@ -35,7 +35,7 @@
   </p>
 </details>
 <details open> 
-  <summary><h4>Databases and Cloud Hosting</h4></summary>
+  <summary><h4>Databases</h4></summary>
   <p>
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white">
       <img alt="MSSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?logo=microsoft%20sql%20server&logoColor=white">
