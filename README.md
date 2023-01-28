@@ -4,7 +4,7 @@
   </a>
 </p>
 
-## - GitHub Profile Stats 💻
+## - GitHub profile stats 💻
 <table style="border:none;margin:0">
   <tr style="border:none;">
     <td style="border:none;">
@@ -36,3 +36,26 @@
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam-badge"/>
   </a>
 </p>
+
+<!--
+## - More about me 😃
+<details>
+  <summary>My favorite quotes 💭</summary>
+  <br>
+  <a target="_blank" href="https://github.com/piyushsuthar/github-readme-quotes">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&quote=To+live+life%2C+you+need+problems.+If+you+get+what+you+want+the+minute+you+want+it%2C+then+what's+the+point+of+living%3F&author=Jake+the+Dog" alt="quotes card">
+  </a>
+    <a target="_blank" href="https://github.com/piyushsuthar/github-readme-quotes">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&quote=So+once+you+do+know+what+the+question+actually+is%2C+you'll+know+what+the+answer+means.&author=Douglas+Adams%2C+The+Hitchhiker's+Guide+to+the+Galaxy" alt="quotes card">
+  </a>
+  <a target="_blank" href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&quote=To+live+life%2C+you+need+problems.+If+you+get+what+you+want+the+minute+you+want+it%2C+then+what's+the+point+of+living%3F&author=Jake+the+Dog" alt="quotes card">
+  </a>
+</details>
+<details>
+  <summary>My favorite quotes :thought_balloon:</summary>
+  <a target="_blank" href="https://github.com/piyushsuthar/github-readme-quotes">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+  </a>
+</details>
+-->
